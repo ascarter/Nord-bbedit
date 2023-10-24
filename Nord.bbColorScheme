@@ -37,7 +37,7 @@
 	<key>com.barebones.bblm.code</key>
 	<string>hsla(0.611, 0.077, 0.917, 1.000)</string>
 	<key>com.barebones.bblm.comment</key>
-	<string>hsla(0.497, 0.249, 0.739, 1.000)</string>
+	<string>hsla(0.611, 0.236, 0.631, 1.000)</string>
 	<key>com.barebones.bblm.css.color-spec</key>
 	<string>hsla(0.115, 0.430, 0.925, 1.000)</string>
 	<key>com.barebones.bblm.css.custom-property</key>
