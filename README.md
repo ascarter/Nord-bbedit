@@ -1,9 +1,7 @@
 # Nord-bbedit
 Nord theme for BBEdit
 
-Implementation of the Nord color scheme for BBEdit
-
-![BBEdit window editing a Go file](bbedit-nord-go.png "Screenshot")
+![BBEdit window editing a Ruby file](screenshots/Nord.png "Screenshot")
 
 ## References
 

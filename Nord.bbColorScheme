@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>BackgroundColor</key>
-	<string>hsla(0.613, 0.290, 0.254, 1.000)</string>
+	<string>hsla(0.622, 0.238, 0.247, 1.000)</string>
 	<key>DifferenceHighlightColor</key>
 	<string>hsla(0.115, 0.430, 0.925, 1.000)</string>
 	<key>InsertionPointLineHighlightColor</key>
-	<string>hsla(0.613, 0.296, 0.371, 0.900000)</string>
+	<string>hsla(0.625, 0.248, 0.319, 1.000)</string>
 	<key>InvisibleOthersColor</key>
 	<string>hsla(0.613, 0.293, 0.420, 1.000)</string>
 	<key>InvisibleSpacesColor</key>
 	<string>hsla(0.613, 0.293, 0.420, 1.000)</string>
 	<key>PrimaryHighlightColor</key>
-	<string>hsla(0.613, 0.296, 0.371, 0.750000)</string>
+	<string>hsla(0.623, 0.261, 0.345, 1.000)</string>
 	<key>SecondaryHighlightColor</key>
-	<string>hsla(0.613, 0.293, 0.420, 0.900000)</string>
+	<string>hsla(0.624, 0.257, 0.321, 1.000)</string>
 	<key>SpellingColor</key>
 	<string>hsla(0.985, 0.502, 0.757, 1.000)</string>
 	<key>SublineDifferenceHighlightColor</key>
@@ -35,7 +35,7 @@
 	<key>com.barebones.bblm.TeX.verbatim</key>
 	<string>hsla(0.560, 0.411, 1.000, 1.000)</string>
 	<key>com.barebones.bblm.code</key>
-	<string>hsla(0.611, 0.077, 0.917, 1.000)</string>
+	<string>hsla(0.578, 0.053, 0.954, 1.000)</string>
 	<key>com.barebones.bblm.comment</key>
 	<string>hsla(0.611, 0.236, 0.631, 1.000)</string>
 	<key>com.barebones.bblm.css.color-spec</key>
